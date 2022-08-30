@@ -9,7 +9,9 @@ Find me on...
 
 I am a Machine Learning Engineer 👨‍💻 / Scientist 👨‍🔬 with over 7 years industry experience working as a Machine Learning Engineer / Data Scientist, and 4 years experience as an academic researcher and scientist working with ML & computational statistics. I am a specialist in deep learning and natural language processing (NLP) with a particular interest in information extraction, dialogue 💬 and question-answering 🎱 systems.
 
-I currently work for [Healx](https://healx.io/), a biotech startup working on repurposing drugs to treat rare diseases using machine learning & technology.
+I currently work for [LabGenius](https://labgeni.us/), a biotech startup working on designing novel biologics to treat diseases including cancer & autoimmune disorders.
+
+I previously worked for [Healx](https://healx.io/), a biotech startup working on repurposing drugs to treat rare diseases using machine learning & technology.
 
 I have worked on various industry applications, highlights include:
 
